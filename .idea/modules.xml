@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LinearInterpolation.iml" filepath="$PROJECT_DIR$/LinearInterpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeneArrays.iml" filepath="$PROJECT_DIR$/MergeneArrays.iml" />
     </modules>
   </component>
 </project>
